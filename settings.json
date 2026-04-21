@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dragonnnsmpp.minefort.com",
-    "port": 25565,
+    "ip": "DragonnSMPP.aternos.me",
+    "port": 30083,
     "version": "",
     "try-creative": false
   },
